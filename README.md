@@ -1,2 +1,0 @@
-# SwampCast
-SwampCast Podcast
