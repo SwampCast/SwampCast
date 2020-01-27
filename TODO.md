@@ -4,6 +4,7 @@ Immediate Priority:
 High Priority:
 * [ ] Everyone should get a good microphone ideally. My pick for a cheap but high quality microphone is an Audio-Technica ATR2100-USB for $65 ( https://www.amazon.com/dp/B004QJOZS4 )
 * [ ] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
+* [ ] Optimize images. Taking up way, way too much bandwidth right now.
 
 Normal Priority:
 
@@ -25,6 +26,7 @@ Lowest Priority:
 
 Website Priority:
 
+* [ ] Optimize images. Taking up way, way too much bandwidth right now.
 * [ ] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com ) 
 * [ ] Extra server as CDN for podcast episode files 
 * [ ] RSS feed podcast episodes 
