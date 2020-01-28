@@ -11,7 +11,6 @@ Normal Priority:
 * [ ] Extra server as CDN for podcast episode files
 * [ ] RSS feed podcast episodes
 * [ ] Fill in Log In PHP Forms
-* [ ] Design episode PHP pages to automatically load relevant files based on EP page number or ID
 
 Low Priority:
 * [ ] Fix SSL error on Mumble
@@ -51,3 +50,4 @@ Finished:
 * [x] Fix contact form on home page
 * [x] Finish making the other social media accounts
 * [x] Edit footer descriptions
+* [x] Design episode PHP pages to automatically load relevant files based on EP page number or ID
