@@ -3,8 +3,11 @@ Immediate Priority:
 
 High Priority:
 * [ ] Everyone should get a good microphone ideally. My pick for a cheap but high quality microphone is an Audio-Technica ATR2100-USB for $65-80. No DAC necessary but preferred: $130+ ( https://www.amazon.com/dp/B004QJOZS4 )
+* [ ] RTX Voice for everyone. There is a HUGE difference. ( https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe / https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/ / https://youtu.be/2gCKOzOxMxU )
 * [x] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
 * [ ] Get Joe Rogan or Elon Musk on the show - either/or
+* [ ] Video background for YouTube uploads of episodes
+
 
 Normal Priority:
 * [x] Extra server as CDN for podcast episode files
