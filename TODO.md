@@ -7,6 +7,7 @@ High Priority:
 * [x] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
 * [ ] Get Joe Rogan or Elon Musk on the show - either/or
 * [ ] Video background for YouTube uploads of episodes
+* [ ] Better CDN for images. Despite being compressed in size, overall image density is too high and too slow to send.
 
 
 Normal Priority:
