@@ -2,13 +2,13 @@ Immediate Priority:
 
 
 High Priority:
-* [ ] Everyone should get a good microphone ideally. My pick for a cheap but high quality microphone is an Audio-Technica ATR2100-USB for $65 ( https://www.amazon.com/dp/B004QJOZS4 )
-* [ ] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
+* [ ] Everyone should get a good microphone ideally. My pick for a cheap but high quality microphone is an Audio-Technica ATR2100-USB for $65-80. No DAC necessary but preferred: $130+ ( https://www.amazon.com/dp/B004QJOZS4 )
+* [x] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
 * [ ] Get Joe Rogan or Elon Musk on the show - either/or
 
 Normal Priority:
-* [ ] Extra server as CDN for podcast episode files
-* [ ] RSS feed podcast episodes
+* [x] Extra server as CDN for podcast episode files
+* [x] RSS feed podcast episodes
 * [ ] Fill in Log In PHP Forms
 
 Low Priority:
@@ -20,13 +20,13 @@ Low Priority:
 ```
 Lowest Priority:
 * [ ] Make Merch Page (when?)
-* [ ] Fix Mobile Background Bug (parallaxe background?)
+* [x] Fix Mobile Background Bug (parallaxe background?)
 * [ ] Make 403/404/500 error code pages
 
 Website Priority:
-* [ ] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
-* [ ] Extra server as CDN for podcast episode files
-* [ ] RSS feed podcast episodes
+* [x] Get podcast on paid services ( Spotify, SoundCloud, Pandora?, stitcher.com )
+* [x] Extra server as CDN for podcast episode files
+* [x] RSS feed podcast episodes
 * [ ] Fill in Log In PHP Forms
 * [ ] Add in additional Admin Page for specific users (dropdown under Home? Add to Navbar?)
 * [ ] Make Merch Page (when?)
